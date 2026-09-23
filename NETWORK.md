@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI ML Pipeline
 
-**ai-ml-pipeline** is part of the Zion Tech Group app network (630+ apps).
+ML model training pipeline builder with automated hyperparameter tuning.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-ml-ops-platform](https://github.com/Zion-support/ai-ml-ops-platform) · [ai-hyperparameter-tuner](https://github.com/Zion-support/ai-hyperparameter-tuner) · [ai-data-labeling](https://github.com/Zion-support/ai-data-labeling) · [ai-data-pipeline](https://github.com/Zion-support/ai-data-pipeline) · [ai-benchmark-lab](https://github.com/Zion-support/ai-benchmark-lab)
 
-## Related apps
-- [ai-hyperparameter-tuner](https://github.com/Zion-support/ai-hyperparameter-tuner) — Hyperparameter optimization
-- [ai-ml-ops-platform](https://github.com/Zion-support/ai-ml-ops-platform) — Deploy and monitor ML models
-- [ai-data-pipeline](https://github.com/Zion-support/ai-data-pipeline) — Automated data pipelines
-- [ai-data-labeling](https://github.com/Zion-support/ai-data-labeling) — Automated labeling
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
